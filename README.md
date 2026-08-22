@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0023-merge-k-sorted-lists) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -93,4 +95,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0022-generate-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
