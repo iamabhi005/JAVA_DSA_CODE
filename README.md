@@ -44,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0027-remove-element) |
+| [0704-binary-search](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
