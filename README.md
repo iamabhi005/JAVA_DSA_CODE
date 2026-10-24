@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0441-arranging-coins](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0209-minimum-size-subarray-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0074-search-a-2d-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
