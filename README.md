@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0018-4sum) |
+| [0268-missing-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -169,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0268-missing-number) |
 ## Ternary Search
 |  |
 | ------- |
