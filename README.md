@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0287-find-the-duplicate-number) |
 ## Ternary Search
 |  |
 | ------- |
@@ -207,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0278-first-bad-version) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
