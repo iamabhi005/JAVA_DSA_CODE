@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0022-generate-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0300-longest-increasing-subsequence) |
 ## Manacher
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0287-find-the-duplicate-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
