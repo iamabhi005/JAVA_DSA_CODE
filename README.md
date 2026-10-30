@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0043-multiply-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0441-arranging-coins) |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0300-longest-increasing-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
