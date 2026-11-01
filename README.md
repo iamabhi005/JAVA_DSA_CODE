@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
