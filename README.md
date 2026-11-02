@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0067-add-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0441-arranging-coins) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0287-find-the-duplicate-number) |
@@ -238,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/iamabhi005/JAVA_DSA_CODE/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
